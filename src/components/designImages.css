@@ -1,0 +1,118 @@
+.designImages {
+  position: relative;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 30px;
+  margin: 275px;
+  margin-top: 15px;
+}
+
+.btn {
+  height: 27px;
+  left: 162px;
+  top: 472px;
+  border-radius: 13.5px;
+}
+
+.btn-container {
+  display: flex;
+}
+
+.primary {
+  background: #7ed321;
+
+  border-style: none;
+
+}
+.primary:hover{
+  color: #ffffff;
+}
+
+.secondary {
+  background: #FF9149;
+  border-style: none;
+  
+}
+.secondary:hover{
+  color: #ffffff;
+
+}
+
+.DesignText {
+  color: #FFFF;
+  position: relative;
+  bottom: 172px;
+  left: 50px;
+}
+
+.DesignText p {
+  width: 280px;
+  height: 52px;
+  left: 162px;
+  top: 553px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+
+.DesignText h2 {
+  width: 218px;
+  height: 31px;
+  left: 162px;
+  top: 514px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: -0.01em;
+  color: #ffffff;
+}
+
+.danger{
+
+border-style: none;
+background: #7ED321;
+width: 5rem;
+}
+.danger:hover{
+  color: #ffffff;
+}
+.alpha{
+  border-style: none;
+  background: #4B4EFF;
+
+
+}
+.alpha:hover{
+  color: #ffffff;
+}
+.tango{
+  background: #E743CC;
+  border-style: none;
+  width: 5rem;
+}
+.tango:hover{
+  color: #ffffff;
+}
+.tango2 {
+  border-style: none;
+  background: #4B4EFF; 
+  width: 5rem;
+}
+.tango2:hover{
+  color: #ffffff;
+}
+.tag{
+  border-style: none;
+  background: #3292F8;
+  width: 5rem;
+}
+.tag:hover{
+  color: #ffffff;
+}

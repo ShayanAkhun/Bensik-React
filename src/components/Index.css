@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&display=swap');
+
+
+.button{
+    align-items: center ;
+    margin-left: 6rem;
+    font-size: x-large;
+    color: #243543;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+    
+
+}
+
+
+.image {
+    height: 60px;
+
+
+    
+}
+.li{ 
+    list-style-type: none;
+ 
+
+}
+.container {
+    display: flex;
+    align-items: center;
+    height: 110px;
+    justify-content: space-around;
+}
+.startButton{
+    color:white;
+    font-size:15px;
+    font-family: 'Inter' , sans-serif;
+    background-color:#FF6645;
+    width: 140px;
+    right :51px;
+    height: 58px;
+    border-radius:29px;
+    border-Style:none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.startButton:hover{
+ background-color: white;
+ color: #FF6645;
+ border-radius: 50px;
+ border: 1px solid#FF6645 !important;
+}
+.signUpButton{
+    color:red;
+    width: 140px;
+    font-family: 'Inter' sans-serif;
+    height: 58px;
+    background-color: #FFFFFF;
+    font-size:14px;
+    border-radius: 29px;
+    border-style:none;
+    border: 1px solid #FF6645;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}  
+.signUpButton:hover{
+background-color: #FF6645;
+color: white;
+border: 1px solid black;
+}
+
+
+
+.div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 300px;
+}
+
+.info {
+    text-transform:uppercase;
+    letter-spacing: 0.17em;
+    font-family: 'Inter', sans-serif;
+    margin-left: 85px;
+    margin-top: 10rem;
+    font-size: 18px;
+    color: #333333;
+}
+
+.h2info{
+    letter-spacing: 0.02em;
+    font-family: 'Inter', sans-serif;
+    color: #243543;
+     font-size: 85px;
+}
+.h3info{
+    font-family: 'Inter', sans-serif;
+    font-size: 23px;
+    color: #666666;
+}
+
+.secondaryDiv {
+    position: absolute;
+    right: 0;
+    background-color: #FF6645;
+    height: 85vh;
+    width: 25%;
+    z-index: -1;
+    top: 0px;
+}
+.guyImg{
+    top: 10px;
+    width: 60vh;
+    position: absolute;
+    top: 10rem;
+    right: 0;
+
+}

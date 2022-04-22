@@ -1,0 +1,135 @@
+.sectionB {
+  padding-top: 4rem;
+  display: flex;
+  justify-content: space-around;
+  margin-right: 33%;
+}
+
+.innerinfoValue {
+  width: 114px;
+  height: 88px;
+  left: 155px;
+  top: 0px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 73px;
+  line-height: 88px;
+  color: #101130;
+  font-family: 'Inter', sans-serif;
+}
+.innerinfoRate {
+  width: 108px;
+  height: 21px;
+  left: 155px;
+  top: 117px;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  letter-spacing: -0.01em;
+  color: #66677a;
+}
+.innerinfoText {
+  width: 144px;
+  height: 19px;
+  left: 155px;
+  top: 143px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #243543;
+}
+.innersecondInfo {
+  width: 102px;
+  height: 88px;
+  left: 454px;
+  top: 0px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 73px;
+  line-height: 88px;
+
+  color: #101130;
+}
+.innersecondRate {
+  width: 169px;
+  height: 21px;
+  left: 454px;
+  top: 117px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 21px;
+  letter-spacing: -0.01em;
+
+  color: #66677a;
+}
+.innersecondText {
+  width: 85px;
+  height: 19px;
+  left: 454px;
+  top: 143px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #243543;
+}
+.textOnly {
+  width: 416px;
+  height: 120px;
+  left: 756px;
+  top: 0px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+  color: #101130;
+}
+.flexBox {
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+  align-items: center;
+  margin-top: 65px;
+}
+.innerh6 {
+  width: 230px;
+  height: 19px;
+  left: 840px;
+  top: 261px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: -0.01em;
+  color: #121212;
+}
+.innerlasth6 {
+  width: 169px;
+  height: 21px;
+  left: 454px;
+  top: 117px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 21px;
+  letter-spacing: -0.01em;
+  color: #66677a;
+}
+.endingText{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 220px;
+}

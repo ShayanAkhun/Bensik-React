@@ -1,0 +1,58 @@
+.Innerul {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding: 0 20px;
+  list-style-type: none;
+  width: 818px;
+  height: 52px;
+  left: 311px;
+  top: 164px;
+  background: #f8f8f8;
+  border-radius: 26px;
+  justify-content: space-between;
+}
+
+.Innerli {
+  list-style-type: none;
+  height: 18px;
+  left: 711px;
+  top: 17px;
+  font-family: 'Inter' sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  letter-spacing: -0.01em;
+  text-transform: uppercase;
+  color: #a1adbb;
+  flex: none;
+  order: 6;
+  flex-grow: 0;
+  text-decoration: none;
+}
+
+a {
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+}
+
+.text-active{
+    list-style-type: none;
+    color: #FF6645;
+    font-family: 'Inter' sans-serif;
+}
+
+.text { 
+    text-decoration: none;
+    color:  #A1ADBB;
+}
+.text:hover{
+    color: #243543;
+}
+
+.innerheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

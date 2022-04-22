@@ -1,0 +1,40 @@
+.btn1{
+    color:red;
+    width: 140px;
+    height: 58px;
+    background-color: #FFFFFF;
+    font-size:14px;
+    border-radius: 29px;
+    border-style:none;
+    border: 1px solid #FF6645;
+    
+}  
+.btn1:hover{
+background-color: #FF6645;
+color: white;
+}
+
+.btn2{
+    color:white;
+    font-size:15px;
+    background-color:#FF6645;
+    font-family: 'Inter' sans-serif;
+    width: 140px;
+    right :51px;
+    height: 58px;
+    border-radius:29px;
+    border-Style:none;
+    margin-left: 20px;
+}
+.btn2:hover{
+ background-color: white;
+ color: #FF6645;
+ border-radius: 50px;
+ border: 1px solid#FF6645 !important;
+}
+.btn-2{
+    display: flex;
+    font-family: 'Inter' sans-serif;
+    justify-items: flex-end;
+    padding-left: 5rem;
+}
